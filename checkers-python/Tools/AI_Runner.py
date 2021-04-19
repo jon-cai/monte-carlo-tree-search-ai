@@ -1,5 +1,6 @@
 """
 This module is where the game is run from.
+AI_Runner plays the MCTS-AI with other AIs.
 
 We are following the javadoc docstring format which is:
 @param tag describes the input parameters of the function
