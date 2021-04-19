@@ -4,8 +4,6 @@ from BoardClasses import Board
 import time
 import copy
 import math
-#The following part should be completed by students.
-#Students can modify anything except the class name and exisiting functions and varibles.
 
 
 class Node():
